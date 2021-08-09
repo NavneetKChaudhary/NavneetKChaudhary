@@ -2,6 +2,6 @@
 ### Welcome to My page
 ### I am a UG student at IIT Hyderabad.
 ```markdown
-I am currently learning web developemnet. 
 I am also learning algorithms.
+My recent work is on small games like TicTakToe and sudoku solvers.
 ```
